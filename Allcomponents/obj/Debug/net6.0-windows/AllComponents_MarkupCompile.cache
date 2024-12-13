@@ -1,20 +1,20 @@
-﻿AllComponents
+﻿Allcomponents
 
 
 winexe
 C#
 .cs
-C:\Users\LENOVO\source\repos\AllComponents\AllComponents\obj\Debug\net6.0-windows\
-AllComponents
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\
+Allcomponents
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\LENOVO\source\repos\AllComponents\AllComponents\App.xaml
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\App.xaml
 11407045341
 
-4-1431809634
+4-1973259640
 194178300874
 MainWindow.xaml;
 
-False
+True
 

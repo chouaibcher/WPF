@@ -18,3 +18,10 @@ C:\Users\LENOVO\source\repos\AllComponents\AllComponents\obj\Debug\net6.0-window
 C:\Users\LENOVO\source\repos\AllComponents\AllComponents\obj\Debug\net6.0-windows\AllComponents.pdb
 C:\Users\LENOVO\source\repos\AllComponents\AllComponents\obj\Debug\net6.0-windows\AllComponents.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\AllComponents\AllComponents\obj\Debug\net6.0-windows\ref\AllComponents.dll
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\Allcomponents_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\Allcomponents_MarkupCompile.lref
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\Allcomponents.dll
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\refint\Allcomponents.dll
+C:\Users\LENOVO\source\repos\WPF\Allcomponents\obj\Debug\net6.0-windows\Allcomponents.pdb
