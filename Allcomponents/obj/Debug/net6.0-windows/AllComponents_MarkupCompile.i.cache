@@ -9,12 +9,12 @@ AllComponents
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\LENOVO\source\repos\AllComponents\AllComponents\App.xaml
-11407045341
 
-61194518206
+2762463097
+
+61930784859
 194178300874
-MainWindow.xaml;
+Allcomponents\App.xaml;Allcomponents\MainWindow.xaml;
 
 True
 
