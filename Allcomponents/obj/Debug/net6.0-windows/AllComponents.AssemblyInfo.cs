@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AllComponents")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Allcomponents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036cb7d2b7336f3f6800b82722cb81792c5adb81")]
-[assembly: System.Reflection.AssemblyProductAttribute("AllComponents")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AllComponents")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7df2fd2af23e44ca1eecbb06cfe290745f45366")]
+[assembly: System.Reflection.AssemblyProductAttribute("Allcomponents")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Allcomponents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
