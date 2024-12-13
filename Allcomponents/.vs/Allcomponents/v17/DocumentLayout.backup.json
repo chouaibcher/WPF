@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Allcomponents\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\WPF\\Allcomponents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|c:\\users\\lenovo\\source\\repos\\allcomponents\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|c:\\users\\lenovo\\source\\repos\\wpf\\allcomponents\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|c:\\users\\lenovo\\source\\repos\\allcomponents\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|c:\\users\\lenovo\\source\\repos\\wpf\\allcomponents\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C393F1D-7FDA-42DA-879D-013F6E39A9C7}|Allcomponents.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Allcomponents\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\WPF\\Allcomponents\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Allcomponents\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\WPF\\Allcomponents\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-13T16:17:47.497Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Allcomponents\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\WPF\\Allcomponents\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Allcomponents\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\WPF\\Allcomponents\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T16:17:47.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T16:17:47.362Z"
             }
           ]
         }
